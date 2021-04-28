@@ -169,7 +169,7 @@ pyECG==0.0.9.1
 pyflakes==2.2.0
 Pygments==2.6.1
 pylint==2.5.3
-pyodbc==4.0.0-unsupported
+#pyodbc==4.0.0-unsupported
 pyOpenSSL==19.1.0
 pyparsing==2.4.7
 pyrsistent==0.16.0
